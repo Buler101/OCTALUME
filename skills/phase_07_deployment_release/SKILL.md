@@ -25,7 +25,7 @@ exit_criteria: [
   "Rollback plan tested",
   "Release closure completed"
 ]
-estimated_duration: "2-4 weeks"
+estimated_duration: "1 week"
 dependencies: ["phase_06_quality_security"]
 outputs: [
   "Deployment Plan",

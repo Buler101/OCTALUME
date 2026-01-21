@@ -1073,7 +1073,7 @@ Security isn't a one-time project. It's like maintaining a car—ongoing care pr
 | **Trivy** | Free | Container scanning |
 | **Checkov/tfsec** | Free | IaC scanning |
 | **AWS WAF** | $20/month | Web application firewall |
-| **AWS Secrets Manager** | $5/month | Secrets management |
+| **AWS Secrets Manager** | Monthly fee | Secrets management |
 | **Supabase Auth** | Free (generous tier) | Authentication |
 | **ELK Stack** | Free (self-hosted) | Log aggregation |
 

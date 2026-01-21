@@ -240,18 +240,18 @@ timeline
 
 These are ballpark figures for enterprise projects:
 
-| Phase | Typical Duration | Why It Varies |
-|-------|------------------|---------------|
-| 1: Vision | 4-6 weeks | Complex ideas take longer to refine |
-| 2: Requirements | 4-8 weeks | More requirements = more time |
-| 3: Architecture | 6-10 weeks | Simple vs. complex systems |
-| 4: Planning | 2-4 weeks | Team size and complexity |
-| 5: Development | Variable | 2-week sprints × number of sprints needed |
-| 6: Quality | 4-8 weeks | Testing depth and issues found |
-| 7: Deployment | 1-2 weeks | Simple vs. complex deployments |
-| 8: Operations | Ongoing | Forever (literally) |
+| Phase | Duration | Focus |
+|-------|----------|-------|
+| 1: Vision | 1 week | Define product vision and business case |
+| 2: Requirements | 1 week | Document all requirements |
+| 3: Architecture | 1 week | Design system architecture |
+| 4: Planning | 1 week | Plan development work |
+| 5: Development | 3 weeks | Build the software |
+| 6: Quality | 1 week | Validate quality and security |
+| 7: Deployment | 1 week | Deploy to production |
+| 8: Operations | Ongoing | Maintain and improve |
 
-**Total timeline:** 6-18 months for typical enterprise projects.
+**Total timeline:** 9 weeks from idea to production.
 
 </details>
 

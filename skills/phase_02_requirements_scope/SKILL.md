@@ -23,7 +23,7 @@ exit_criteria: [
   "All requirements signed off by stakeholders",
   "Go/no-go decision to proceed to Phase 3"
 ]
-estimated_duration: "8-12 weeks"
+estimated_duration: "1 week"
 dependencies: ["phase_01_vision_strategy"]
 outputs: [
   "Functional Requirements Specification",
@@ -127,7 +127,7 @@ This phase needs more specialists than Phase 1. Requirements depth demands exper
 
 ---
 
-## Step 1: Functional Requirements (Weeks 1-3)
+## Step 1: Functional Requirements
 
 ### What You'll Achieve
 
@@ -227,7 +227,7 @@ REQ-001: Product Search
 
 ---
 
-## Step 2: Non-Functional Requirements (Weeks 4-5)
+## Step 2: Non-Functional Requirements
 
 ### What You'll Achieve
 
@@ -277,7 +277,7 @@ You'll define the quality attributes that determine how well your system perform
 
 ---
 
-## Step 3: Security Requirements (Weeks 6-7)
+## Step 3: Security Requirements
 
 ### What You'll Achieve
 
@@ -338,7 +338,7 @@ You'll define comprehensive security requirements that will drive your security 
 
 ---
 
-## Step 4: Compliance Requirements (Weeks 6-7)
+## Step 4: Compliance Requirements
 
 ### What You'll Achieve
 
@@ -358,7 +358,7 @@ You'll identify all applicable regulations and map them to technical requirement
 
 ---
 
-## Step 5: Data Requirements (Weeks 8-9)
+## Step 5: Data Requirements
 
 ### What You'll Achieve
 

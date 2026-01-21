@@ -26,7 +26,7 @@ exit_criteria: [
   "ADRs created",
   "Go/no-go decision to proceed to Phase 4"
 ]
-estimated_duration: "14-19 weeks"
+estimated_duration: "1 week"
 dependencies: ["phase_02_requirements_scope"]
 outputs: [
   "System Architecture Document",
@@ -110,14 +110,14 @@ This phase needs your most senior technical people. Architecture decisions are e
 | **CTA** | Overall architecture, technical decisions, trade-offs | They own the "how" from a technical perspective |
 | **Security Architect** | Security architecture, threat modeling, controls | Security architecture now = security built in later |
 | **Data Architect** | Data models, databases, migration strategy | Data architecture changes are very expensive |
-| **Cloud Architect** | Infrastructure design, cost optimization, scalability | Infrastructure decisions lock you into platforms |
+| **Cloud Architect** | Infrastructure design,optimization, scalability | Infrastructure decisions lock you into platforms |
 | **UX Lead** | User interface, user experience, prototypes | UX validated now = rebuilt UI avoided later |
 | **Tech Lead** | Implementation validation, feasibility | They'll translate architecture to code |
 
 <details>
 <summary><strong>Deep Dive: The Architecture Team in Action</strong></summary>
 
-**CTA (Chief Technology Architect)**: This is their time to shine. They'll spend 60-70% of their time on this phase, making decisions that will shape the product for years. One good architecture decision can save millions; one bad one can cost millions.
+**CTA (Chief Technology Architect)**: This is their time to shine. They'll spend 60-70% of their time on this phase, making decisions that will shape the product for years. One good architecture decision can save millions; one bad one canmillions.
 
 **Security Architect**: They'll design defense-in-depth security, conduct threat modeling, and define security controls. Their work prevents the "we need to add security later" problem (which never ends well).
 
@@ -132,7 +132,7 @@ This phase needs your most senior technical people. Architecture decisions are e
 
 ---
 
-## Step 1: System Architecture Design (Weeks 1-4)
+## Step 1: System Architecture Design
 
 ### What You'll Achieve
 
@@ -191,7 +191,7 @@ Accepted | Proposed | Deprecated | Superseded by [ADR-XXX]
 ## Consequences
 - **Positive**: [What benefits does this decision bring?]
 - **Negative**: [What are the downsides or risks?]
-- **Cost**: [What are the cost implications?]
+- **Cost**: [What are theimplications?]
 
 ## Alternatives Considered
 1. [Alternative 1]: [Why we rejected it]
@@ -232,7 +232,7 @@ Use PostgreSQL 15+ as our primary database.
 
 ---
 
-## Step 2: Security Architecture Design (Weeks 5-7)
+## Step 2: Security Architecture Design
 
 ### What You'll Achieve
 
@@ -276,7 +276,7 @@ Threat modeling identifies security vulnerabilities before you build. Use the ST
 
 ---
 
-## Step 3: Data Architecture Design (Weeks 8-10)
+## Step 3: Data Architecture Design (0)
 
 ### What You'll Achieve
 
@@ -320,7 +320,7 @@ You'll design logical and physical data models, database schemas, and data migra
 
 ---
 
-## Step 4: Infrastructure & API Design (Weeks 11-14)
+## Step 4: Infrastructure & API Design (1-14)
 
 ### What You'll Achieve
 
@@ -377,7 +377,7 @@ Completing this phase means you have a complete blueprint for building your prod
 - ☐ **System architecture approved by CTA** (documented, reviewed, signed off)
 - ☐ **Security architecture approved by CISO** (threat models completed, controls defined)
 - ☐ **Data architecture approved and validated** (schemas, migrations, retention defined)
-- ☐ **Infrastructure design approved and cost-validated** (cloud design, cost projections reviewed)
+- ☐ **Infrastructure design approved and cost-validated** (cloud design,projections reviewed)
 - ☐ **API and integration design completed** (specs documented, examples provided)
 - ☐ **UI/UX design validated with users** (prototypes tested, feedback incorporated)
 - ☐ **Technical specifications documented** (coding standards, testing strategy defined)

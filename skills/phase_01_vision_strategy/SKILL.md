@@ -13,10 +13,10 @@ exit_criteria: [
   "Technical feasibility confirmed by CTA",
   "Security considerations documented",
   "Stakeholders aligned and committed",
-  "Budget and resources identified",
+  "Resources identified",
   "Go/no-go decision to proceed to Phase 2"
 ]
-estimated_duration: "4-7 weeks"
+estimated_duration: "1 week"
 dependencies: []
 outputs: [
   "Business Case Document",
@@ -59,7 +59,7 @@ I know what you might be thinking: *"Is this going to be endless meetings and pa
 
 Last year, I worked with a team building an AI-powered healthcare triage system. They came in with a rough idea and left 6 weeks later with:
 
-- **$2.3M in approved funding** (their initial ask was $1.5M)
+- **Executive approval and resource commitment** (full team allocated)
 - **C-Suite champions** in three departments
 - **Security buy-in** before writing a single line of code (huge time-saver later)
 - **A competitor analysis** that revealed an untapped market niche
@@ -91,7 +91,7 @@ Great products are never built alone. Here's your core team:
 | Role | They're Responsible For | Why They Matter |
 |------|------------------------|-----------------|
 | **You (Product Owner)** | Owning the vision, business case, and PRD | You're the champion—the one who keeps everyone focused on *what* and *why* |
-| **Executive Sponsor** | Approving the business case and securing funding | Your exec champion—opens doors, removes blockers, champions your cause |
+| **Executive Sponsor** | Approving the business case and resources | Your exec champion—opens doors, removes blockers, champions your cause |
 | **CTA (Chief Technology Architect)** | Reviewing technical feasibility | They'll tell you honestly if this is buildable and how |
 | **Project Manager** | Coordinating stakeholders and keeping things moving | The glue that holds everything together |
 | **Security Lead** | Identifying security considerations early | Saves you from painful redesigns later (trust me) |
@@ -115,7 +115,7 @@ Great products are never built alone. Here's your core team:
 
 ---
 
-## Step 1: Building Your Business Case (Weeks 1-2)
+## Step 1: Building Your Business Case
 
 ### What You'll Achieve
 
@@ -138,19 +138,19 @@ You'll create a compelling document that answers the question every executive as
 **This happens more than you think**—and it's not necessarily a problem. Here's how to address it:
 
 **Strategy 1: Expand Your Definition**
-- Initial: "Project management software for tech startups" ($50M market)
-- Expanded: "Project management software for knowledge workers" ($5B market)
+- Initial: "Project management software for tech startups"
+- Expanded: "Project management software for knowledge workers"
 - Be honest about your beachhead market, but show the expansion potential
 
 **Strategy 2: Focus on Market Growth**
 - If the current market is small but growing 40% annually, highlight that
-- Use phrases like *"We're entering a $50M market growing to $200M by 2028"*
+- Use phrases like *"We're entering a growing market with significant expansion potential"*
 
 **Strategy 3: Emphasize Profitability Over Size**
 - Some execs prefer niche dominance over broad markets
 - *"We can capture 30% of this underserved market in 3 years"*
 
-**Real example**: A team I advised had a $20M initial market. By showing a clear expansion path to $300M over 5 years, they got full funding.
+**Real example**: A team I advised had a focused initial market. By showing a clear expansion path, they got executive approval.
 </details>
 
 ### What Success Looks Like
@@ -166,7 +166,7 @@ You'll create a compelling document that answers the question every executive as
 
 ---
 
-## Step 2: Crafting Your Product Requirements Document (Weeks 3-5)
+## Step 2: Crafting Your Product Requirements Document
 
 ### What You'll Achieve
 
@@ -209,7 +209,7 @@ You'll transform your business case into a detailed PRD that answers: *"What exa
 
 ---
 
-## Step 3: Stakeholder Alignment (Weeks 5-7)
+## Step 3: Stakeholder Alignment
 
 ### What You'll Achieve
 
@@ -261,7 +261,7 @@ I can't emphasize this enough: **security in Phase 1 saves months in Phase 6**.
 | **Data Classification** | What data types will you handle? (PII, financial, health, proprietary) | Determines compliance requirements and protection needs |
 | **Regulatory Requirements** | Which regulations apply? (GDPR, HIPAA, PCI DSS, SOC 2, SOX) | Non-compliance can kill your product or result in massive fines |
 | **Security Requirements** | What security capabilities are needed? (auth, encryption, audit) | Much harder to add later (see: countless post-launch hacks) |
-| **Risk Assessment** | What are the security threats and their likelihood? | Informs architecture decisions and budget planning |
+| **Risk Assessment** | What are the security threats and their likelihood? | Informs architecture decisions and planning |
 
 **Output from this phase**: One page in your business case titled "Security Considerations." It doesn't need to be detailed—just thoughtful.
 
@@ -276,7 +276,7 @@ I can't emphasize this enough: **security in Phase 1 saves months in Phase 6**.
 
 **What they discovered**:
 - Their initial architecture would violate PCI DSS (cardholder data in memory)
-- They needed tokenization (adding $200K and 8 weeks to timeline)
+- They needed tokenization (adjusting architecture to meet requirements)
 - They needed SOC 2 Type II certification (6-month process)
 
 **Because they addressed it in Phase 1**:
@@ -303,7 +303,7 @@ Before moving forward, confirm these boxes are checked:
 - ☐ **Technical feasibility confirmed by CTA** (written confirmation this is buildable)
 - ☐ **Security considerations documented** (one page in business case, reviewed by Security Lead)
 - ☐ **Stakeholders aligned and committed** (RACI matrix signed, key stakeholders committed)
-- ☐ **Budget and resources identified** (funding approved, team roles defined)
+- ☐ **Resources identified** (team roles defined)
 - ☐ **Go/no-go decision documented** (explicit decision to proceed to Phase 2)
 
 ### What "Go" Looks Like
@@ -357,7 +357,7 @@ Everything you need is in these directories:
 **You've accomplished something significant**:
 
 ✅ Turned an idea into a structured business case
-✅ Got executive funding and approval
+✅ Got executive approval
 ✅ Created a clear product vision and requirements
 ✅ Built a coalition of aligned stakeholders
 ✅ Started with security in mind

@@ -85,13 +85,13 @@ Each phase builds on the last, with clear entry criteria, defined deliverables, 
 
 | Phase | What You'll Do | Why It Matters | Duration | Owner |
 |:-----:|----------------|---------------|----------|-------|
-| **1** | Define what & why | Avoid building the wrong thing | 4-6 weeks | Product Owner |
-| **2** | Specify requirements | Prevent scope creep & ambiguity | 4-8 weeks | Product Owner |
-| **3** | Design architecture | Make technical decisions upfront | 6-10 weeks | CTA |
-| **4** | Plan the work | Know what, who, and when | 2-4 weeks | Project Manager |
-| **5** | Build the software | Agile sprints, working software | Variable | Tech Lead |
-| **6** | Validate quality & security | Catch issues before production | 4-8 weeks | QA Lead |
-| **7** | Deploy to production | Smooth, controlled releases | 1-2 weeks | DevOps |
+| **1** | Define what & why | Avoid building the wrong thing | 1 week | Product Owner |
+| **2** | Specify requirements | Prevent scope creep & ambiguity | 1 week | Product Owner |
+| **3** | Design architecture | Make technical decisions upfront | 1 week | CTA |
+| **4** | Plan the work | Know what, who, and when | 1 week | Project Manager |
+| **5** | Build the software | Agile sprints, working software | 3 weeks | Tech Lead |
+| **6** | Validate quality & security | Catch issues before production | 1 week | QA Lead |
+| **7** | Deploy to production | Smooth, controlled releases | 1 week | DevOps |
 | **8** | Operate & improve | Keep it running & getting better | Ongoing | SRE |
 
 </details>
@@ -108,7 +108,7 @@ Each phase builds on the last, with clear entry criteria, defined deliverables, 
 - **PRD (Product Requirements Document):** What exactly you're building
 - **Success Metrics:** How you'll measure achievement
 
-**Outcome:** Executive buy-in, budget approval, and crystal-clear product vision.
+**Outcome:** Executive buy-in and crystal-clear product vision.
 
 ### Phase 2: Requirements & Scope
 
@@ -279,12 +279,12 @@ claude --version
 
 **With OCTALUME, here's her journey:**
 
-**Phase 1: Vision & Strategy (Weeks 1-6)**
+**Phase 1: Vision & Strategy (Week 1)**
 ```
 Sarah creates a Business Case answering:
 - Why do we need this platform?
 - What's the market opportunity?
-- What's our budget and timeline?
+- What's our timeline?
 - What are the risks?
 
 Then she creates a PRD defining:
@@ -293,10 +293,10 @@ Then she creates a PRD defining:
 - What features do we need?
 - How will we measure success?
 
-Result: Executive approval, $100K budget, 6-month timeline ✓
+Result: Executive approval and clear timeline ✓
 ```
 
-**Phase 2: Requirements & Scope (Weeks 7-14)**
+**Phase 2: Requirements & Scope (Week 2)**
 ```
 Sarah documents every requirement:
 - User registration & authentication
@@ -315,7 +315,7 @@ Each requirement has:
 Result: 47 requirements approved, no ambiguity ✓
 ```
 
-**Phase 3: Architecture & Design (Weeks 15-24)**
+**Phase 3: Architecture & Design (Week 3)**
 ```
 The CTA designs the system:
 - Microservices architecture
@@ -334,7 +334,7 @@ Security architecture includes:
 Result: Technical blueprint approved by stakeholders ✓
 ```
 
-**Phase 4: Development Planning (Weeks 25-28)**
+**Phase 4: Development Planning (Week 4)**
 ```
 The Project Manager breaks down the work:
 - 247 tasks across 8 sprints
@@ -347,7 +347,7 @@ The Project Manager breaks down the work:
 Result: Clear roadmap with realistic timeline ✓
 ```
 
-**Phase 5: Development Execution (Weeks 29-40)**
+**Phase 5: Development Execution (Weeks 5-7)**
 ```
 Agile sprints begin:
 - 2-week sprints
@@ -368,7 +368,7 @@ Working software delivered incrementally:
 Result: MVP ready for UAT ✓
 ```
 
-**Phase 6: Quality & Security Validation (Weeks 41-48)**
+**Phase 6: Quality & Security Validation (Week 8)**
 ```
 The QA Lead validates:
 - All 47 requirements met ✓
@@ -380,7 +380,7 @@ The QA Lead validates:
 Result: Ready for production ✓
 ```
 
-**Phase 7: Deployment & Release (Weeks 49-50)**
+**Phase 7: Deployment & Release (Week 9)**
 ```
 The DevOps engineer executes:
 - Blue-green deployment
@@ -402,7 +402,7 @@ The SRE team maintains:
 Result: Stable, reliable platform ✓
 ```
 
-**Total Time:** 50 weeks | **Budget:** $98K (under by $2K) | **Quality:** Exceeded expectations
+**Total Time:** 9 weeks | **Quality:** Exceeded expectations
 
 </details>
 
@@ -414,9 +414,9 @@ Result: Stable, reliable platform ✓
 <summary><strong>See all roles and responsibilities</strong></summary>
 
 ### Leadership (3 roles)
-- **Executive Sponsor:** Budget authority, executive backing
+- **Executive Sponsor:** Executive authority and backing
 - **Product Owner:** Vision, requirements, ROI
-- **Project Manager:** Timeline, budget, execution
+- **Project Manager:** Timeline and execution
 
 ### Technical (2 roles)
 - **CTA:** Technical vision, architecture decisions
@@ -604,7 +604,7 @@ node --version
 
 **Healthcare Startup:**
 - Challenge: HIPAA compliance, tight timeline
-- Result: Launched in 6 months, fully compliant, $50K under budget
+- Result: Launched in 9 weeks, fully compliant
 
 **Enterprise SaaS:**
 - Challenge: 5 products, no standard process

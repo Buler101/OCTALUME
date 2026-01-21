@@ -24,7 +24,7 @@ exit_criteria: [
   "Team onboarded",
   "Go/no-go decision to proceed to Phase 5"
 ]
-estimated_duration: "4-6 weeks"
+estimated_duration: "1 week"
 dependencies: ["phase_03_architecture_design"]
 outputs: [
   "Work Breakdown Structure (WBS)",
@@ -84,7 +84,7 @@ Contrast that with a team that spent 5 weeks planning:
 - **Quality built in** (testing was part of every sprint)
 - **Team morale stayed high** (realistic commitments, clear direction)
 
-Their Project Manager told me: *"I was impatient to start coding. But those 5 weeks of planning saved us months of chaos. We've hit every sprint deadline since."*
+Their Project Manager told me: *"I was impatient to start coding. But those 5 time planning saved us months of chaos. We've hit every sprint deadline since."*
 
 That's the feeling we're aiming for. You'll start development with confidence, not chaos.
 
@@ -137,7 +137,7 @@ This phase needs planning specialists and operational leaders. Planning details 
 
 ---
 
-## Step 1: Work Breakdown Structure (Weeks 1-2)
+## Step 1: Work Breakdown Structure
 
 ### What You'll Achieve
 
@@ -198,7 +198,7 @@ Epic: User Authentication (4 weeks)
 
 ---
 
-## Step 2: Resource Planning (Weeks 2-3)
+## Step 2: Resource Planning
 
 ### What You'll Achieve
 
@@ -283,13 +283,13 @@ You'll identify risks, assess probability and impact, and define mitigation stra
 - No user-facing downtime
 - No emergency scramble (mitigation was already implemented)
 
-**The Cost**: 2 weeks of development for abstraction layer
-**The Savings**: 6-8 weeks of emergency rework + user churn
+**The Cost**: adequate development for abstraction layer
+**The Savings**: extended emergency rework + user churn
 </details>
 
 ---
 
-## Step 4: Quality & Test Planning (Weeks 3-4)
+## Step 4: Quality & Test Planning
 
 ### What You'll Achieve
 
@@ -329,7 +329,7 @@ You'll define quality metrics, test strategy, coverage targets, and defect manag
 
 ---
 
-## Step 5: Sprint 0 - Setup and Onboarding (Weeks 5-6)
+## Step 5: Sprint 0 - Setup and Onboarding
 
 ### What You'll Achieve
 
@@ -386,7 +386,7 @@ You'll set up development environments, CI/CD pipeline, and onboard the team.
 - **Zero deployment surprises** (pipeline was tested and proven)
 
 **The Investment**: 3 weeks of Sprint 0
-**The Payback**: 6-8 weeks of productivity gained (no setup delays, no deployment issues)
+**The Payback**: extended productivity gained (no setup delays, no deployment issues)
 </details>
 
 ---
