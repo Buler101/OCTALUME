@@ -56,7 +56,7 @@
 > - Launch MVP with 50 beta customers by Q2
 > - Achieve 4.5-star rating in app stores by Q3
 > - Reach 10,000 active users by end of Year 1
-> - Process $1M in transactions by month 12
+> - Process significant transaction volume by month 12
 
 **Write your product goals:**
 [What specific, measurable outcomes will you achieve? When?]
