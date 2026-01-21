@@ -32,7 +32,7 @@
 - What benefits you'll deliver (the happy ending)
 
 **Example to inspire you:**
-> "Our current customer service system takes 3 days to respond to inquiries. Customers are frustrated, and our competitors are winning. We propose building an AI-powered chatbot that responds in seconds, 24/7. This will cut response time by 98%, improve customer satisfaction by 40%, and save $500K annually."
+> "Our current customer service system takes 3 days to respond to inquiries. Customers are frustrated, and our competitors are winning. We propose building an AI-powered chatbot that responds in seconds, 24/7. This will cut response time by 98%, improve customer satisfaction by 40%, and save significant operational costs annually."
 
 **Write your executive summary:**
 [Your 2-3 paragraph summary here. Start with the problem, describe your solution, and end with the expected outcomes.]
@@ -54,7 +54,7 @@
 - "Our team spends 15 hours per week manually..."
 - "Customers are abandoning their carts at a rate of..."
 - "The system crashes whenever traffic spikes..."
-- "We're losing $X per month because..."
+- "We're losing significant revenue each month because..."
 
 **Write your current state here:**
 [Describe what's happening now - use real numbers if you have them, or realistic estimates. Tell the story of the problem.]
